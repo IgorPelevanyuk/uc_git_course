@@ -9,3 +9,5 @@ Intro
 =====
 
 This is my *test learning* project
+
+And the conflict was successfully resolved
